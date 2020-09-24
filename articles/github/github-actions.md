@@ -53,7 +53,7 @@ For sample workflows to connect to Azure and run scripts based on Az CLI or Az P
 
 ## Sample apps with CI/CD workflow samples 
 
-The following samples provide end-to-end workflows  to build and deploy Web apps of any language, any ecosystem to Azure. 
+The following samples provide end-to-end workflows to build and deploy applications of any language, any ecosystem to Azure. 
 
 - [Deploy a Web App with ASP.NET support](https://github.com/Azure-Samples/dotnet-sample)  
 - [Deploy an ASP.NET Core App](https://github.com/Azure-Samples/dotnet_core_sample)  
@@ -62,7 +62,8 @@ The following samples provide end-to-end workflows  to build and deploy Web apps
 - [Deploy a Java Spring App](https://github.com/Azure-Samples/Java-application-petstore-ee7)  
 - [Deploy a Python Web App](https://github.com/Azure-Samples/pythonSample_thecatsaidno)  
 - [Deploy a containerized Web app using Docker](https://github.com/Azure-Samples/Node_express_container)
-
+- [Deploy a containerized application to AKS](https://github.com/Azure/azure-triggers-acr)
+- [Deploy a machine learning model to AKS](https://github.com/Azure-Samples/mlops-enterprise-template)
 
 ## Deploy a Web app
 
